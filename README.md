@@ -1,3 +1,5 @@
 # Typescript
 
-Curso typeScript completo, ejemplos, programas etc...
+Curso TypeScript completo.
+
+Ejemplos, usos e implementacion de toda la funcionalidad de Typescript traspilada a Js.
